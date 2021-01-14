@@ -1,0 +1,28 @@
+@charset "utf-8";
+h1{
+    color:blue;
+}
+
+p{
+    color:rgb(21, 83, 155);
+
+}
+
+.foot{
+    background-color: rgb(153, 141, 30);
+    text-align: center;
+}
+
+.cardA{
+    background-color: chartreuse;
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+
+}
+
+.card{
+    background-color: cornflowerblue;
+    margin-bottom: 10px;
+    border: cornsilk solid 5px;
+}
